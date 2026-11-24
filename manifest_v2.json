@@ -1,0 +1,48 @@
+{
+  "item": {
+    "id": "com.kidming.edcflame",
+    "restype": "quick_app",
+    "name": "edc火焰",
+    "description": "把一盏像素氛围灯放在手腕上。暖色火苗会跳动，轻点时会迸出火星。\n\n### 玩法说明\n1. 打开应用点火，轻点火苗添火，偶尔会出现彩色火焰。摇动熄灭，再摇一下，或轻点重新点燃。\n2. 侧放时火苗会熄下去，竖起时恢复。可以在设置里关闭体感。\n3. 长按进设置，调节火苗大小、像素圆方、明暗和跳动速度，也可以开关点阵底纹。\n4. 「体感」设置可以分别开关晃动与震动，并可重新校准。\n\n适配小米手环 10、10 NFC、11、11 NFC。购买后，请在 AstroBox 绑定下单所用的爱发电账号。",
+    "preview": [
+      "media/01-点燃与添火.webp",
+      "media/02-晃动熄灭与复燃.webp",
+      "media/03-火苗造型.webp",
+      "media/04-亮度-流速与底纹.webp"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/app.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/app.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/app.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/app.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
